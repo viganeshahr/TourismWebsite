@@ -11,7 +11,7 @@ Place the complete Tourism Website folder in www/htdocs folder of Wamp/Xampp Ser
 Make sure you import the database "tourismwebsite.sql" into your database.
 
 In TourismWebsite/LoggedIn/BookingConfirmed file make sure to add your email-id,password and the smtpjs id(unique id generated for secure communicaation link).
-for details regarding creating asecure channel in smtpjs follow wathc the below youtube link:
+for details regarding creating asecure channel in smtpjs follow watch the below youtube link:
 https://www.youtube.com/watch?v=d_0LIOF_aoQ&t=44s
 and do the necessary security changes(like allowing third party apps to access your mail etc.) in your google account settings(if using gmail).
 
