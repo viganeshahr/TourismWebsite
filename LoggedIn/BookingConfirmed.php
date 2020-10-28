@@ -14,9 +14,9 @@
       //alert(mail);
       // alert(name+" "+message);
       Email.send({ Host : "smtp.gmail.com",
-    SecureToken : "4cc623a7-95eb-40c8-9274-7f8b236b77c0",
-      Username : "14vishalganesh98@gmail.com",
-      Password : "#09ViGaneShA25*",
+    SecureToken : "" ,// place your SMTP SECURE TOKEN HERE
+      Username : "", //YOUR EMAIL ID
+      Password : "", //YOUR SMTP EMAILID PWD 
       To : texts[0],
       From : "14vishalganesh98@gmail.com",
       Subject : "This is the subject",
